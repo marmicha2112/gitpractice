@@ -7,4 +7,5 @@ def is_prime(n):
     return True
 
 print(is_prime(7))  # Output: True
-
+print()
+print("New line is inserted")
