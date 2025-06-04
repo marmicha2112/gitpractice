@@ -9,3 +9,4 @@ def is_prime(n):
 print(is_prime(7))  # Output: True
 print()
 print("New line is inserted")
+print ("Added a new line")
